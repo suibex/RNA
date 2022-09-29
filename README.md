@@ -13,12 +13,12 @@ Now you won't really see anything useful here. But he explained it like this:
 <br>
 Ribosomes are grabbing the info from informational RNA (iRNA) and using them to create Protein.
 <br>
-So then I somehow wakeup and taught. Wait. Can I use this to create a hashing algorithm?
+So then I somehow woke up and taught. Wait. Can I use this to create a hashing algorithm?
 <br>
 Maybe not a good one, but still it would be hella fun to do so.
 <br>
 <h1>How it works?</h1>
-RNA hasing works by using prefixed random values.<br>
+RNA hashing works by using prefixed random values.<br>
 Just like iRNA has prefixed info.<br>
 Those values are then calculated with this formulas that I came up with:
 <br>

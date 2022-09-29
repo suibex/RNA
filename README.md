@@ -26,6 +26,8 @@ Those values are then calculated with this formulas that I came up with:
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/59802817/193109793-a769c2f7-f0d2-4115-a60a-019c53fb37cf.png">
 <br>
 And as far as I tested , new hashes everytime, always different. This is fun!
+<br>Also, as a coincidence , this hashing is really fast, so thats neat too.<br>
+
 <br>
 <h1>Example:</h1>
 <br>
@@ -33,3 +35,5 @@ And as far as I tested , new hashes everytime, always different. This is fun!
 <h2>The quick brown fox jumps over the lazy dog.</h2>
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/59802817/193110097-9f0d817e-5bf8-44ea-9b4b-1f1a58356b51.png">
+<br>
+so I guess Biology is not that boring, huh?
